@@ -1,0 +1,15 @@
+{
+  "name": "ajs-homeworks_platforms_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "LiTiN",
+  "license": "ISC",
+  "dependencies": {
+    "@valentinsilivankov/ajs-homeworks_platforms": "^1.0.0"
+  }
+}
